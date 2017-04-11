@@ -1,3 +1,3 @@
 <?PHP
-  echo "Hello,Planet.";
+  echo "Hello,World!";
 ?>
