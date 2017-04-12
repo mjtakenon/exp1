@@ -8,7 +8,7 @@ var latlng = new google.maps.LatLng( 34.7192369,137.7144583 );
 var mapOptions = {
 	zoom: 15 ,	// ズーム値
 	center: latlng ,	// 中心座標 [latlng]
-	
+	map: map,
 	position: new google.maps.LatLng( 34.7192369,137.7144583 ) ,	// 位置座標
 };
 
