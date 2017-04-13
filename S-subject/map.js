@@ -25,6 +25,5 @@ var marker = new google.maps.Marker( {
 
 function printFunc()
 {
-	print("hello.");
-	return 0;
+	println("hello.");
 }
