@@ -22,3 +22,9 @@ var marker = new google.maps.Marker( {
 	position: new google.maps.LatLng( 34.7192369,137.7144583 )	// 位置座標
 } ) ;
 */
+
+void func()
+{
+	print("hello.");
+	return 0;
+}
