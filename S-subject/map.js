@@ -23,7 +23,7 @@ var marker = new google.maps.Marker( {
 } ) ;
 */
 
-function printFunc()
+function printTest()
 {
-	println("hello.");
+	alert("hello.");
 }
